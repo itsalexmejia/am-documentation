@@ -3,9 +3,9 @@ import HeaderComponent from "../components/header"
 
 const IndexPage = () => {
   return (
-    <>
+    <div className="min-w-320">
       <HeaderComponent/>
-    </>
+    </div>
   )
 }
 
